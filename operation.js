@@ -20,9 +20,6 @@ var vag = mony / man;
 console.log(vag);
 
 
-// var declaration
-var tomatoprice = 25;
-// var value update
-tomatoprice = 30;
+
 
 
