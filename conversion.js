@@ -8,3 +8,15 @@ var lastname = 'zohirul';
 var fullname = firstname + '-' + lastname;
 console.log(fullname);
 
+
+
+
+// convert string to number
+var rate = '77';
+var convert = parseInt(rate);
+console.log(convert);
+
+// convert string to number with point
+var rateing = 55.5;
+var converting = parseFloat(rateing);
+console.log(rateing);
