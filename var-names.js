@@ -24,3 +24,4 @@ var name = "Hridoy"; //string
 var Hacked =true; //Booleans
 var man; //undefined
 var friends = [Bappi,Hridoy,Sohag]; //array
+console.log(friends);
