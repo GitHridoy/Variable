@@ -14,9 +14,9 @@ console.log(totalcost);
 
 
 // var vag korte hoy javabe
-var mony = 100;
+var mony = 120;
 var man = 5;
-var vag = mony / man;
+var vag = mony % man;
 console.log(vag);
 
 

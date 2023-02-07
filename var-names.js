@@ -17,3 +17,10 @@ var HomeAddressLine = "Jamalpur"; //pascal case
 var price = 33;
 var Price = 32;
 
+
+// variable names
+var age = 44; //number/nemoric
+var name = "Hridoy"; //string
+var Hacked =true; //Booleans
+var man; //undefined
+var friends = [Bappi,Hridoy,Sohag]; //array
