@@ -12,3 +12,7 @@ console.log(finde);
 number [1] = 33;
 console.log(number);
 
+// finde index of element
+var positionIndex = number.indexOf(105);
+console.log(positionIndex);
+
