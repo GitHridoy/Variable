@@ -28,3 +28,13 @@ for(var is = 0; is < model.length; is++){
     }
     console.log(finde)
 }
+
+// এটা ফর লুপ এবং একটি ভেরিয়েবল এর ভিতরের সব এলিমেন্ট কে বের করা যায় এবং চাইলে নিদ্রিস্ট ইন্ডেক্সে স্কিপ করে পরের গুলা চালান যায়
+var model = ['w68', 'w45', 'v75', 'v85', 'v95', 'v45'];
+for(var is = 0; is < model.length; is++){
+    var finde = model[is];
+    if(finde == 'v95'){
+        continue;
+    }
+    console.log(finde)
+}
